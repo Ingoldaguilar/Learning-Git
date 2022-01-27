@@ -1,4 +1,7 @@
 body{
-    background-color: gray;
-    color: #000;
+    background-color: rgb(175, 68, 68);
+    color: rgb(255, 255, 255);
+}
+h1{
+    font-size: 35px;
 }

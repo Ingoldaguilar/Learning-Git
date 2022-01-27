@@ -1,7 +1,10 @@
-body{
-    background-color: rgb(175, 68, 68);
-    color: rgb(255, 255, 255);
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
 }
-h1{
-    font-size: 35px;
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }

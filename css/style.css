@@ -8,3 +8,11 @@ header{
     align-items: center;
     justify-content: space-between;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+a:last-child{
+    text-decoration: none;
+    color: orange;
+}
